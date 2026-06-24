@@ -14,6 +14,8 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt1.archive.org:6969/announce
 
+http://bt1.xxxxbt.cc:6969/announce
+
 http://bt2.archive.org:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -36,15 +38,21 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.cbase.cc:6969/announce
 
+http://tracker.corpscorp.online:80/announce
+
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
+http://tracker.dmcomic.org:2710/announce
 
-http://tracker.plx.im:6969/announce
+http://tracker.ipv6tracker.org:80/announce
+
+http://tracker.moxing.party:6969/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -63,6 +71,8 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
+
+http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -85,8 +95,6 @@ https://pybittrack.retiolus.net:443/announce
 https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 https://torrents.tmtime.dev:443/announce
 
