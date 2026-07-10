@@ -16,6 +16,8 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://coeus.torrentonline.cc:42069/announce
 
+udp://ds32244.seedhost.eu:6969/announce
+
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -32,6 +34,8 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
+udp://obey.torrentonline.cc:42069/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
@@ -40,13 +44,13 @@ udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -74,8 +78,6 @@ udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.bluefrog.pw:2710/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.ddunlimited.net:6969/announce
@@ -84,11 +86,11 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://tracker.ducks.party:1984/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
-
-udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -113,6 +115,8 @@ udp://tracker.plx.im:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -141,6 +145,4 @@ udp://tracker4.itzmx.com:2710/announce
 udp://v6.vito-tracker.space:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
-
-udp://zer0day.ch:1337/announce
 
