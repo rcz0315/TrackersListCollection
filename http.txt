@@ -20,25 +20,15 @@ http://bt2.archive.org:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://jvavav.com:80/announce
-
 http://lucke.fenesisu.moe:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.trackerlist.xyz:80/announce
-
-http://retracker.spark-rostov.ru:80/announce
-
 http://retracker01-msk-virt.corbina.net:80/announce
 
-http://share.hkg-fansub.info:80/announce.php
-
 http://t.overflow.biz:6969/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -48,27 +38,21 @@ http://tr.kxmp.cf:80/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://tracker.bittor.pw:1337/announce
-
-http://tracker.bt4g.com:2095/announce
-
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.dmcomic.org:2710/announce
-
-http://tracker.ipv6tracker.org:80/announce
-
-http://tracker.lintk.me:2710/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.nexusstream.eu:6969/announce
 
 http://tracker.opentorrent.top:6969/announce
+
+http://tracker.opentrackr.org:1337/announce
+
+http://tracker.plx.im:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -87,8 +71,6 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
-
-http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -121,10 +103,6 @@ https://tr.nyacat.pw:443/announce
 https://tr.zukizuki.org:443/announce
 
 https://tracker.7471.top:443/announce
-
-https://tracker.adgk.net:443/announce
-
-https://tracker.bt4g.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
