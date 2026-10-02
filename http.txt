@@ -8,6 +8,8 @@ http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
 
+http://94.23.207.177:6969/announce
+
 http://announce.sktorrent.eu:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -32,6 +34,8 @@ http://tr.nyacat.pw:80/announce
 
 http://tracker.23794.top:6969/announce
 
+http://tracker.dhitechnical.com:6969/announce
+
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
@@ -39,6 +43,8 @@ http://tracker.dler.org:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.opentorrent.top:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
